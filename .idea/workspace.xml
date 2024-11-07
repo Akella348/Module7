@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ac71608-ae25-4227-99ce-cc764416e61a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Module7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_7_1.py" afterDir="false" />
+    <list default="true" id="4ac71608-ae25-4227-99ce-cc764416e61a" name="Changes" comment="1 iteration">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Akella348"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Akella348&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Akella348/Module7.git",
-    "accountId": "a70e2456-71e0-496e-98ff-028c527559dc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Akella348/Module7.git&quot;,
+    &quot;accountId&quot;: &quot;a70e2456-71e0-496e-98ff-028c527559dc&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2nfJFnimq0xZQDdQmUE8AH9itWK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,7 +45,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.module_10_1.executor": "Run",
     "Python.module_7_1.executor": "Run",
+    "Python.module_7_2.executor": "Run",
+    "Python.module_7_3.executor": "Run",
+    "Python.module_8_1.executor": "Run",
+    "Python.module_8_2.executor": "Run",
+    "Python.module_8_3.executor": "Run",
+    "Python.module_9_1.executor": "Run",
+    "Python.module_9_2.executor": "Run",
+    "Python.module_9_3.executor": "Run",
+    "Python.module_9_4.executor": "Run",
+    "Python.module_9_5.executor": "Run",
+    "Python.module_9_6.executor": "Run",
+    "Python.module_9_7.executor": "Run",
     "Python.testing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -73,6 +80,141 @@
       <option name="presentableId" value="Default" />
       <updated>1729358095404</updated>
     </task>
+    <task id="LOCAL-00001" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1729368287214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729368287214</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1729448136369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729448136369</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730223074370</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730223074370</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2 iteration">
+      <option name="closed" value="true" />
+      <created>1730224711189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730224711189</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3 iteration">
+      <option name="closed" value="true" />
+      <created>1730228499785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730228499785</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730655333553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730655333553</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730662063925</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730662063925</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730747374759</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730747374759</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730824512927</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730824512927</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730828085142</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730828085142</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730831818227</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730831818227</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730835592838</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730835592838</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730914189815</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730914189815</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730919006764</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730919006764</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1730922919018</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730922919018</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1731008356818</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1731008356818</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 iteration" />
+    <MESSAGE value="3 iteration" />
+    <MESSAGE value="1 iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 iteration" />
   </component>
 </project>
