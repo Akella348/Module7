@@ -1,12 +1,13 @@
 import random
 import time
-from threading import Thread
+from threading import Thread, Lock
 from queue import Queue
 
 class Table:
     def __init__(self, number):
         self.number = number
         self.guest = None
+        self.lock = Lock()  # Блокировка для управления доступом к столу
 
 class Guest(Thread):
     def __init__(self, name):
@@ -23,7 +24,7 @@ class Cafe:
 
     def guest_arrival(self, *guests):
         for guest in guests:
-            free_table = next((table for table in self.tables if table.guest is None), None)
+            free_table = next((table for table in self.tables if table.lock.acquire(blocking=False) and table.guest is None), None)
             if free_table:
                 free_table.guest = guest
                 guest.start()
@@ -40,8 +41,10 @@ class Cafe:
                         print(f"{table.guest.name} покушал(-а) и ушёл(ушла)")
                         print(f"Стол номер {table.number} свободен")
                         table.guest = None
+                        table.lock.release()  # Освобождаем блокировку стола
                         if not self.queue.empty():
                             new_guest = self.queue.get()
+                            table.lock.acquire()  # Захватываем блокировку для нового гостя
                             table.guest = new_guest
                             new_guest.start()
                             print(f"{new_guest.name} вышел(-ла) из очереди и сел(-а) за стол номер {table.number}")
