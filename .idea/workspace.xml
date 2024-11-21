@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ac71608-ae25-4227-99ce-cc764416e61a" name="Changes" comment="1 iteration">
-      <change afterPath="$PROJECT_DIR$/Module10/module_10_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_12/tests_12_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Module7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Module7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +31,12 @@
     &quot;assignee&quot;: &quot;Akella348&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Akella348/Module7.git&quot;,
-    &quot;accountId&quot;: &quot;a70e2456-71e0-496e-98ff-028c527559dc&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Akella348/Module7.git",
+    "accountId": "1d5c32cc-e08c-4360-9c17-2b03fd6323bb"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -46,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in tests_12_3.py.executor": "Run",
+    "Python tests.Python tests in tests_12_4.py.executor": "Run",
     "Python.module_10_1.executor": "Run",
     "Python.module_10_2.executor": "Run",
     "Python.module_10_3.executor": "Run",
@@ -62,15 +66,20 @@
     "Python.module_9_5.executor": "Run",
     "Python.module_9_6.executor": "Run",
     "Python.module_9_7.executor": "Run",
+    "Python.suite_12_3.executor": "Run",
     "Python.testing.executor": "Run",
+    "Python.tests_12_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/Documents/GitHub/Module7",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -219,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731086598621</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="1 iteration">
+      <option name="closed" value="true" />
+      <created>1732210229649</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1732210229649</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
